@@ -43,7 +43,7 @@ def get_captcha(text):
     # 百度接口识别图片
     # baidu_deal_img()
     # 超级鹰验证码平台接口识别
-    deal_captcha = Chaojiying_Client('15596870128','chuang123.','906087')
+    deal_captcha = Chaojiying_Client('*********','*********','*******')
     img = open('captcha.jpg', 'rb').read()
     code = deal_captcha.PostPic(img, 1902)
     print(code)
