@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd993afa-0234-46e0-8380-af7ef96310b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iyrjFJnEYj7kNamVszthsQyPuG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.ob-decrypt.js">
+    <configuration name="config.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS混淆还原工具/config.js" working-dir="$PROJECT_DIR$/JS混淆还原工具">
+      <method v="2" />
+    </configuration>
+    <configuration name="ob-decrypt.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS混淆还原工具/ob-decrypt.js" working-dir="$PROJECT_DIR$/JS混淆还原工具">
+      <method v="2" />
+    </configuration>
+    <configuration name="source.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS混淆还原工具/source.js" working-dir="$PROJECT_DIR$/JS混淆还原工具">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ob-decrypt.js" />
+        <item itemvalue="Node.js.source.js" />
+        <item itemvalue="Node.js.config.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd993afa-0234-46e0-8380-af7ef96310b9" name="Default Changelist" comment="" />
+      <created>1602890805895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602890805895</updated>
+      <workItem from="1602890807976" duration="395000" />
+      <workItem from="1602891605025" duration="1965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1445" height="287" key="GridCell.Tab.0.bottom" timestamp="1602945584991">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1445" height="287" key="GridCell.Tab.0.bottom/0.0.1466.864@0.0.1466.864" timestamp="1602945584991" />
+    <state width="1445" height="287" key="GridCell.Tab.0.center" timestamp="1602945584990">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1445" height="287" key="GridCell.Tab.0.center/0.0.1466.864@0.0.1466.864" timestamp="1602945584990" />
+    <state width="1445" height="287" key="GridCell.Tab.0.left" timestamp="1602945584990">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1445" height="287" key="GridCell.Tab.0.left/0.0.1466.864@0.0.1466.864" timestamp="1602945584990" />
+    <state width="1445" height="287" key="GridCell.Tab.0.right" timestamp="1602945584990">
+      <screen x="0" y="0" width="1466" height="864" />
+    </state>
+    <state width="1445" height="287" key="GridCell.Tab.0.right/0.0.1466.864@0.0.1466.864" timestamp="1602945584990" />
+  </component>
+</project>
