@@ -10,6 +10,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var _315Router = require('./routes/315xioafei');
 var _xinhuacaijing = require('./routes/xinhuacaijing');
+var maomaozu = require('./routes/maomaozu');
 
 var app = express();
 
@@ -28,6 +29,7 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/315', _315Router);
 app.use('/xinhua', _xinhuacaijing);
+app.use('/maomaozu', maomaozu);
 
 
 // catch 404 and forward to error handler

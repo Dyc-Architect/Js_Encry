@@ -1,4 +1,4 @@
-var CryptoJS = require("C:\\Users\\duyichuang\\WebstormProjects\\JS_Encrypt\\public\\crypto-js");
+var CryptoJS = require("crypto-js");
 function L(t) {
     for (var i = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"], e = "", n = 0; n < t; n++) {
         e += i[parseInt(9 * Math.random())]

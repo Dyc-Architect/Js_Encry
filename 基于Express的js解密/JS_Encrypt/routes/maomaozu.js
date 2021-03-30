@@ -1,4 +1,4 @@
-var CryptoJS = require("C:\\Users\\duyichuang\\WebstormProjects\\JS_Encrypt\\public\\crypto-js");
+var CryptoJS = require("crypto-js");
 function timest() {
     var tmp = Date.parse( new Date() ).toString();
     tmp = tmp.substr(0,10);
